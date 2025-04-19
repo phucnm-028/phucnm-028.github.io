@@ -1,0 +1,35 @@
+/* ==========================================================================
+   Forest Mist skin (Monochromatic Navy Blue Palette)
+   Generated: Thursday, April 17, 2025 at 10:22:12 PM EDT
+   ========================================================================== */
+
+/* Palette */
+$forest-darkest: #001b2e;
+$forest-dark-mid: #1d3f58;
+$forest-mid: #537692; // Can be used for borders or secondary elements if needed
+$forest-light-blue: #b3cde4;
+$forest-lightest: #daeaf7;
+
+/* Mapped Colors */
+$background-color: $forest-lightest !default;
+$text-color: $forest-darkest !default;
+$primary-color: $forest-light-blue !default; // Main accent color (links, buttons)
+$border-color: mix(#fff, $background-color, 20%) !default; // Subtle border based on background
+$code-background-color: $forest-dark-mid !default; // Slightly lighter bg for code
+$code-background-color-dark: mix(#000, $code-background-color, 10%) !default; // Darker variant for code if needed
+$form-background-color: $forest-dark-mid !default; // Form background
+$footer-background-color: mix(#000, $background-color, 15%) !default; // Slightly darker than main background
+$link-color: $primary-color !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default; // Make links slightly whiter on hover
+$link-color-visited: mix($background-color, $link-color, 50%) !default; // Blend visited links more with background
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#fff, $text-color, 20%) !default; // Slightly whiter text on hover
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default; // Keep original logic
+
+/* notices */
+// Keep Neon notice logic or adapt using Forest Mist colors
+$notice-background-mix: 90% !default;
+$code-notice-background-mix: 95% !default;
+
+/* --- SYNTAX HIGHLIGHTING --- */
+/* !! IMPORTANT !! */
