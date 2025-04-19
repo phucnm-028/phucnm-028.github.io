@@ -31,7 +31,7 @@ title: "About"
   var locations = [
     {lat: 21.315603, lng: -157.858093, name: "1. Honolulu, Hawaii - HPU undergrad, it all starts here."},
     {lat: 39.9526, lng: -75.1652, name: "2. Philadelphia - UPenn grad"},
-    {lat: 48.1351, lng: 11.5820, name: "3. Munich - Brief PhD before dropout"},
+    {lat: 48.1351, lng: 11.5820, name: "3. Munich - Brief PhD research period"},
     {lat: 10.8231, lng: 106.6297, name: "4. Ho Chi Minh - Back home with family, getting ready for next adventure"},
     {lat: 43.6532, lng: -79.3832, name: "5. Toronto - Current home with my wife (and expecting!!)"},
   ];
