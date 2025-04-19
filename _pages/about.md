@@ -1,7 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: ""
 ---
+Hi! I'm Minh Phuc. I'm a data scientist by trade, and a soon-to-be dad.
+
 
 <!-- 1. Link Leaflet CSS -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -32,8 +34,8 @@ title: "About"
     {lat: 21.315603, lng: -157.858093, name: "1. Honolulu, Hawaii - HPU undergrad, it all starts here."},
     {lat: 39.9526, lng: -75.1652, name: "2. Philadelphia - UPenn grad"},
     {lat: 48.1351, lng: 11.5820, name: "3. Munich - Brief PhD research period"},
-    {lat: 10.8231, lng: 106.6297, name: "4. Ho Chi Minh - Back home with family, getting ready for next adventure"},
-    {lat: 43.6532, lng: -79.3832, name: "5. Toronto - Current home with my wife (and expecting!!)"},
+    {lat: 10.8231, lng: 106.6297, name: "4. Ho Chi Minh - Back home with family"},
+    {lat: 43.6532, lng: -79.3832, name: "5. Toronto - Current home"},
   ];
 
   // Extract lat and long pairs
